@@ -1,0 +1,13 @@
+# Baltazar — Lista URL-ova za scraping
+# Linije koje počinju s # su komentari i preskačemo ih
+# Format: jedna URL po liniji
+
+# === TURIZAM ===
+https://htz.hr/en-US
+https://www.visitcroatia.com
+
+# === UGOSTITELJSTVO ===
+https://www.hotrec.eu/publications/
+
+# === VISOKO OBRAZOVANJE / AI ===
+https://ec.europa.eu/education/policies/higher-education_en
